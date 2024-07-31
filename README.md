@@ -15,7 +15,7 @@ This repo contains data and analysis on Christianity demographics, including bra
   - [Step 4: Creating Visualizations with AWS QuickSight](#step-4-creating-visualizations-with-aws-quicksight)
 - [Challenges](#challenges)
 - [Acknowledgements](#acknowledgements)
-- [Images Placeholder](#images-placeholder)
+- [Each Demographic](#each-demograph)
 - [Conclusion](#conclusion)
 
 ## Dataset
@@ -86,7 +86,7 @@ I would like to give credit to the following sources for providing data:
 - **[Pew Research Center](https://www.pewresearch.org)**
 - **[Statista](https://www.statista.com)**
 
-## Images Placeholder
+## Each Demographics
 
 - **Regional Distribution of Christianity**
 ![image](https://github.com/user-attachments/assets/289ba8d2-8476-4f4d-ab3b-838c224f395b)
@@ -104,7 +104,7 @@ I would like to give credit to the following sources for providing data:
 ![image](https://github.com/user-attachments/assets/0e3ef73c-c349-47bd-b100-9e84375e0738)
 
 - **Map of Estimated Christian Adherents Count by Country**
-  ![Adherents by Country Map](path/to/country_map.png)
+![image](https://github.com/user-attachments/assets/67c3aea6-7d53-4a36-bb04-a3bdee320f91)
 
 - **Distribution of Christianity Records by Event Name and Date**
   ![image](https://github.com/user-attachments/assets/f09b4d33-bf83-4795-82ca-40359a4de4bf)
