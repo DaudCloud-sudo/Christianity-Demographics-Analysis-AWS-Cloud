@@ -74,6 +74,8 @@ Using AWS QuickSight, I created various dashboards to visualize the data. This i
 2. Creating datasets in QuickSight.
 3. Designing visualizations such as pie charts, flow charts, and tables.
 
+![image](https://github.com/user-attachments/assets/c9314b3b-e802-4134-a4bb-16f29e9f857f)
+
 ## Challenges
 
 The most difficult part was gathering authentic data from APIs or websites. However, I efficiently managed this by verifying sources and cross-referencing data to ensure its reliability.
@@ -113,3 +115,16 @@ I would like to give credit to the following sources for providing data:
 ## Conclusion
 
 This project provided a detailed visualization of Christianity worldwide, leveraging the power of AWS S3 and AWS QuickSight. The visualizations created offer valuable insights into the distribution and demographics of Christianity.
+
+### Dashboard PDF File
+[Download Dashboard PDF](https://github.com/DaudCloud-sudo/Christianity-Demographics-Analysis-AWS-Cloud/blob/main/Global-Christianity-Pew-Research.pdf)
+
+
+### Connect with me:
+
+**Portfolio Website**
+[Visit my Portfolio](https://sdaudportfolio.com)
+
+ **LinkedIn Profile**
+[Connect on LinkedIn](https://www.linkedin.com/in/shahzaib-daud-computer-engineer/)
+
