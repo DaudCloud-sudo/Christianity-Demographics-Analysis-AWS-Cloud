@@ -85,6 +85,7 @@ The most difficult part was gathering authentic data from APIs or websites. Howe
 I would like to give credit to the following sources for providing data:
 - **[Pew Research Center](https://www.pewresearch.org)**
 - **[Statista](https://www.statista.com)**
+- **Global Christianity Pew Research Center Detailed Book** (attached in this GitHub repo, contains comprehensive data on Christianity)
 
 ## Each Demographics
 
