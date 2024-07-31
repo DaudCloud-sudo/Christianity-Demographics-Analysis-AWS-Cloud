@@ -104,13 +104,13 @@ I would like to give credit to the following sources for providing data:
 ![image](https://github.com/user-attachments/assets/0e3ef73c-c349-47bd-b100-9e84375e0738)
 
 - **Map of Estimated Christian Adherents Count by Country**
-![image](https://github.com/user-attachments/assets/67c3aea6-7d53-4a36-bb04-a3bdee320f91)
+![image](https://github.com/user-attachments/assets/290f20a2-d34f-4db7-9d1a-3419503ad523)
 
 - **Distribution of Christianity Records by Event Name and Date**
-  ![image](https://github.com/user-attachments/assets/f09b4d33-bf83-4795-82ca-40359a4de4bf)
+![image](https://github.com/user-attachments/assets/f09b4d33-bf83-4795-82ca-40359a4de4bf)
 
 - **Total Estimated Christian Adherents by Major Country**
-  ![image](https://github.com/user-attachments/assets/925654f7-e0ee-45dc-854f-194b526c5e3a)
+![image](https://github.com/user-attachments/assets/925654f7-e0ee-45dc-854f-194b526c5e3a)
 
 ## Conclusion
 
