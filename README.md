@@ -113,6 +113,9 @@ I would like to give credit to the following sources for providing data:
 - **Total Estimated Christian Adherents by Major Country**
 ![image](https://github.com/user-attachments/assets/925654f7-e0ee-45dc-854f-194b526c5e3a)
 
+- **Final Image**
+![image](https://github.com/user-attachments/assets/c37e5ebe-306f-4850-a28b-ad2027234898)
+
 ## Conclusion
 
 This project provided a detailed visualization of Christianity worldwide, leveraging the power of AWS S3 and AWS QuickSight. The visualizations created offer valuable insights into the distribution and demographics of Christianity.
