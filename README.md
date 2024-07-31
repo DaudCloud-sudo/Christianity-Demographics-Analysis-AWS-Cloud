@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2ce3f0f3-5b9b-469d-ab2a-8f88bdb5bf15)# Christianity-Demographics-Analysis-AWS-Cloud-Quicksight
+# Christianity-Demographics-Analysis-AWS-Cloud-Quicksight
 
 This repo contains data and analysis on Christianity demographics, including branches, denominations, and adherents. It features visualizations and insights into global religious distribution and historical events. Perfect for exploring and understanding Christian demographics.
 
